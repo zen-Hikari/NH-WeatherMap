@@ -8,7 +8,7 @@ A modern weather application built with **React.js** and **Tailwind CSS** that p
 
 ## 📸 Preview
 
-![Weather App Screenshot](https://via.placeholder.com/800x400?text=Weather+App+Preview)
+![Weather App Screenshot](https://raw.githubusercontent.com/zen-Hikari/NH-WeatherMap/refs/heads/main/public/weather-2.png)
 
 ## 🚀 Features
 
