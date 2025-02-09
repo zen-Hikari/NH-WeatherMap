@@ -41,7 +41,7 @@ A modern weather application built with **React.js** and **Tailwind CSS** that p
    ```
 4. Run the project:
    ```bash
-   npm start
+   pnpm start
    ```
 
 ## 🎨 UI Animations
