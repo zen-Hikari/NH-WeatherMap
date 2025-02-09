@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+/* CSS untuk animasi kotak persegi yang berkembang */
+.expand-enter {
+  transform: scale(0);
+  width: 150px; /* Ukuran awal kecil */
+  height: 150px; /* Kotak persegi */
+  opacity: 0;
+}
+
+.expand-enter-active {
+  transform: scale(1);
+  width: 300px; /* Membesar hingga lebar tertentu */
+  height: 200px; /* Tinggi tetap */
+  opacity: 1;
+  transition: transform 700ms ease, width 700ms ease, height 700ms ease, opacity 700ms ease;
+}
+
+.expand-exit {
+  opacity: 1;
+  transform: scale(1);
+  width: 300px;
+  height: 200px;
+}
+
+.expand-exit-active {
+  opacity: 0;
+  transform: scale(0);
+  width: 150px;
+  height: 150px;
+  transition: transform 300ms ease, width 300ms ease, height 300ms ease, opacity 300ms ease;
+}
