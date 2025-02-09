@@ -1,14 +1,14 @@
 # 🌦️ Modern Weather App
 
-![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repository?style=social)
-![License](https://img.shields.io/github/license/username/repository)
+![GitHub stars](https://img.shields.io/github/stars/zen-Hikari/NH-WeatherMap?style=social)
+![GitHub forks](https://img.shields.io/github/forks/zen-Hikari/NH-WeatherMap?style=social)
+![License](https://img.shields.io/github/license/zen-Hikari/NH-WeatherMap)
 
 A modern weather application built with **React.js** and **Tailwind CSS** that provides real-time weather updates in an interactive and visually appealing UI.
 
 ## 📸 Preview
 
-![Weather App Screenshot](https://via.placeholder.com/800x400?text=Weather+App+Preview)
+![Weather App Screenshot](https://raw.githubusercontent.com/zen-Hikari/NH-WeatherMap/refs/heads/main/public/weather-2.png)
 
 ## 🚀 Features
 
@@ -28,7 +28,7 @@ A modern weather application built with **React.js** and **Tailwind CSS** that p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/zen-Hikari/NH-WeatherMap.git
    cd repository
    ```
 2. Install dependencies:
@@ -62,5 +62,5 @@ Feel free to **fork this repository** and submit pull requests! Contributions ar
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-🚀 Built with ❤️ by [Your Name](https://github.com/yourusername)
+🚀 Built with ❤️ by [zen-Hikari](https://github.com/zen-Hikari)
 
