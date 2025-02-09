@@ -33,7 +33,7 @@ A modern weather application built with **React.js** and **Tailwind CSS** that p
    ```
 2. Install dependencies:
    ```bash
-   npm install
+   pnpm install
    ```
 3. Create a `.env` file and add your OpenWeather API key:
    ```env
