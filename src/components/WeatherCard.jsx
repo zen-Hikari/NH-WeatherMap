@@ -10,7 +10,7 @@ const WeatherCard = ({ data }) => {
 
   return (
     <div
-      className={`bg-gradient-to-r from-purple-400 via-indigo-500 to-blue-600 w-full sm:w-80 p-6 p-x-5 sm:p-8 mt-8 rounded-xl shadow-2xl text-white transition-all duration-700 ease-in-out transform ${
+      className={`bg-gradient-to-r from-purple-400 via-indigo-500 to-blue-600 w-full sm:w-80 p-6 px-5 sm:p-8 mt-8 rounded-xl shadow-2xl text-white transition-all duration-700 ease-in-out transform mx-9 sm:mx-0 ${
         animateCard ? "scale-100 opacity-100" : "scale-50 opacity-0"
       }`}
     >
@@ -52,3 +52,4 @@ WeatherCard.propTypes = {
 };
 
 export default WeatherCard;
+
